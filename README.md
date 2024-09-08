@@ -1,13 +1,15 @@
-I am passionate about creating user-friendly mobile experiences. I specialize in building robust and scalable Android applications while continuously improving my skills.
+I love building user friendly mobile experiences. I build robust and scalable Android apps and continuously learning.
 <br>
 <br>
-👨‍💻 With a solid foundation in both front-end and back-end development, I am dedicated to designing, developing, and deploying applications that meet high standards of quality. Currently, I am focused on enhancing my understanding of Data Structures and Algorithms (DSA).
+👨‍💻 I have a solid foundation in both front-end and back-end development and I design, develop and deploy apps that meet high standards. Currently I am focused on learning Data Structures and Algorithms (DSA).
 <br>
-💻 Proficient in Java and Kotlin, I am also gaining experience with various libraries and tools essential for Android development. My enthusiasm for coding and solving complex problems drives me to learn and grow continuously.
 <br>
-📚 I actively participate in competitive programming on platforms like LeetCode, CodeChef, and Codeforces to sharpen my problem-solving abilities. When I'm not coding, you can find me exploring new technologies, reading about tech innovations, or attending local meetups and hackathons.
+💻 I am proficient in Java and Kotlin and learning various libraries and tools for Android development. I love coding and solving problems and that drives me to learn and grow.
 <br>
-
+<br>
+📚 I participate in competitive programming on platforms like LeetCode, CodeChef and Codeforces to improve my problem solving skills. When I am not coding you can find me exploring new tech, reading about latest tech or attending local meetups and hackathons.
+<br>
+<br>
 
 ![](https://leetcard.jacoblin.cool/ashish_shivhare?ext=contest)
 <!---
